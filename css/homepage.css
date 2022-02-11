@@ -1,0 +1,28 @@
+body 
+{
+  font-family: Gill Sans, sans-serif;
+  background-color: rgb(193, 161, 188);
+  text-align: center;
+}
+
+
+a 
+{
+  text-decoration: none;
+  color: white;
+  background-color:black;
+  padding: 10px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+
+}
+
+.link 
+{
+  margin: 20px;
+}
