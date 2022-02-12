@@ -5,13 +5,19 @@ body
   text-align: center;
 }
 
-p {
+p 
+{
   font-size: 20px;
+  color: rgb(255, 255, 255);
+}
+h1
+{
+    color: rgb(255, 255, 255);
 }
 a 
 {
   text-decoration: none;
-  color: white;
+  color: rgb(255, 255, 255);
   background-color:black;
   padding: 10px;
 }
